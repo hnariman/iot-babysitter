@@ -26,7 +26,7 @@ SNS Topic->>Mobile Phone: sends text message to group saying "baby is crying"
 - ESP32 based WEMOS D1 mini (compact and has all what we need) [Documentation](https://www.wemos.cc/en/latest/d1/d1_mini.html) 
 <img src="https://www.wemos.cc/en/latest/_static/boards/d1_mini_v4.0.0_1_16x16.png" width="200" height="200"/>
 - Adafruit MAX9814 microphone with built in Amplifier 
-<img src="https://cdn-shop.adafruit.com/970x728/1713-03.jpg width="200" height="200"/> 
+<img src="https://cdn-shop.adafruit.com/970x728/1713-03.jpg" width="200" height="200"/> 
 - Some power (not sure yet maybe a battery, maybe some AC/DC converter to plug the device into socket)
 
 ## Software:
