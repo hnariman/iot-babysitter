@@ -1,0 +1,4 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","U1","1","WeMos_D1_mini","Module:WEMOS_D1_mini_light",""
+"2","U2, U3","2","MAX9814","Package_DFN_QFN:DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm",""
+"3","U4","1","ESP32-S3-DevKitC","PCM_Espressif:ESP32-S3-DevKitC",""
