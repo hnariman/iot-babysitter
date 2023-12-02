@@ -7,6 +7,7 @@ On any abnormal level of sound which mic is registering (baby starts to cry),
 this portable device shall send SMS Text notification to group of people
 (family members).
 
+## Diagram:
 ```mermaid
 sequenceDiagram
 participant Mic
@@ -22,8 +23,8 @@ SNS Topic->>Mobile Phone: sends text message to group saying "baby is crying"
 ```
 
 ## Hardware:
-- ESP32 D1 mini (compact and has all what we need)
-- Adafruit MAX9814 microphone with built in Amplifier
+- ESP32 based WEMOS D1 mini (compact and has all what we need) [Documentation](https://www.wemos.cc/en/latest/d1/d1_mini.html)
+- Adafruit MAX9814 microphone with built in Amplifier ![image](https://cdn-shop.adafruit.com/970x728/1713-03.jpg)
 - Some power (not sure yet maybe a battery, maybe some AC/DC converter to plug the device into socket)
 
 ## Software:
