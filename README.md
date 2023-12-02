@@ -1,6 +1,12 @@
 # About
 
-Overall idea of the project is to build IoT Babysitter
+Overall idea of the project is to build IoT Babysitter 
+
+Problem it solves: my personal issue "make sure I don't miss baby crying, when I wear headset" 
+
+& demonstration of basic interaction with AWS IoT and Mobile phones.
+
+** maybe could be usefull for fire/intrusion alarms as well
 
 ## Requirements:
 On any abnormal level of sound which mic is registering (baby starts to cry),
