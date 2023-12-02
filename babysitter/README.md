@@ -6,14 +6,14 @@ Wemos D1 Mini is still not delivered, so I will use ESP32-WROOM-32 devboard for 
 
 ## PCB:
 
-<img src="./images/PCB.png" width="300" height="300"/>
+<img src="./images/PCB.png"/>
 
 ## Schematics:
 
-<img src="./images/Schematic.png" width="300" height="300"/>
+<img src="./images/Schematic.png"/>
 
 ## 3D (lib seem to be broken)
  
-<img src="./images/3D.png" width="300" height="300"/>
+<img src="./images/3D.png"/>
 
 
